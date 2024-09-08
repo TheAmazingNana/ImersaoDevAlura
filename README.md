@@ -1,10 +1,10 @@
-# 🍥 Mundo Ninja - Concurso Alura - Personagens Naruto 🦊🐍🍡
+# 🍡🦊 Concurso Alura - Mundo Ninja - Naruto 🐍🍡
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxvbG4wZW1ueTd4a3prNXh0NndwajJ1cTI5MnFjdXljdXY1eTF0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.webp" width="450" />
 </div>
 
-## 🌟 Gostou do Projeto? Vote Aqui!
+## 🌟 Gostou do Projeto? [Vote Aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1282163099151110216)!
 
 Se você curtiu o **Mundo Ninja** e acha que ele merece destaque, por favor, deixe o seu voto!  
 Sua opinião é muito importante para mim e vai ajudar a tornar este projeto ainda melhor. Obrigada! 🙏✨
